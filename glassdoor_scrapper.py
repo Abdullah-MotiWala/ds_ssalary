@@ -83,7 +83,7 @@ def get_jobs(keyword, num_jobs, verbose, path, slp_time):
                     signUpBtn.click()
                     time.sleep(.5)
                     job_button.click()  # You might
-                    time.sleep(2)
+                    time.sleep(1)
                     collected_successfully = False
                 except NoSuchElementException:
                     pass
@@ -218,15 +218,15 @@ def get_jobs(keyword, num_jobs, verbose, path, slp_time):
                          "Industry": industry,
                          "Sector": sector,
                          "Revenue": revenue, })
-            time.sleep(5)
+            time.sleep(1)
             # add job to jobs
 
         # Clicking on the "next page" button
-        # try:
-        #     driver.find_element(by=By.XPATH,value='.//li[@class="next"]//a').click()
-        # except NoSuchElementException:
-        #     print("Scraping terminated before reaching target number of jobs. Needed {}, got {}.".format(num_jobs, len(jobs)))
-        #     break
+        try:
+            driver.find_element(by=By.XPATH,value='//*[@id="MainCol"]/div[2]/div/div[1]/button[7]').click()
+        except NoSuchElementException:
+            print("Scraping terminated before reaching target number of jobs. Needed {}, got {}.".format(num_jobs, len(jobs)))
+            break
 
     # This line converts the dictionary object into a pandas DataFrame.
     return pd.DataFrame(jobs)
