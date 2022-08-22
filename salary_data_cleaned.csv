@@ -1,0 +1,107 @@
+Job Title,Salary Estimate,Rating,Company Name,Location,Founded,Type of ownership,Industry,Sector,min_size,max_size,min_revenue,max_revenue,revenue_currency
+Data Scientist,120412 ,4.1,"Bosch Group
+4.1",Sunnyvale,1886,Company - Private,Consumer Product Manufacturing,Manufacturing,100001,100001 ,100.01,100.01,billion
+Data Scientist,117599 ,4.3,"Cisco Systems
+4.3",San Jose,1984,Company - Public,Enterprise Software & Network Solutions,Information Technology,100001,100001 ,100.01,100.01,billion
+Data Scientist,122065 ,5.0,"BICP
+5.0",San Francisco,2009,Company - Private,Information Technology Support Services,Information Technology,1,50 ,5,25,million
+"Senior Data Scientist, Analytics",175000 ,4.2,"Discord
+4.2",San Francisco,2015,Company - Private,Internet & Web Services,Information Technology,51,200 ,1,5,million
+Data Scientist,127302 ,3.7,"Upgrade
+3.7",San Francisco,2016,Company - Private,Banking & Lending,Financial Services,201,500 ,1,1,million
+Data Scientist,135227 ,3.1,"Stitch Fix
+3.1",San Francisco,2011,Company - Public,Other Retail Stores,Retail & Wholesale,100001,100001 ,1,5,billion
+Senior Data Scientist - Hiring Platform,190000 ,4.4,"Indeed
+4.4",San Francisco,2004,Company - Private,Internet & Web Services,Information Technology,100001,100001 ,1,5,billion
+Data Scientist,124411 ,4.0,"Visa
+4.0",San Francisco,1958,Company - Public,Information Technology Support Services,Information Technology,100001,100001 ,100.01,100.01,billion
+Data Scientist,151378 ,3.3,"Wish
+3.3",San Francisco,2010,Company - Public,Internet & Web Services,Information Technology,1001,5000 ,1,5,billion
+Data Scientist,118584 ,4.5,"Cloudbigdata Technologies
+4.5",San Francisco,1998,Company - Private,Information Technology Support Services,Information Technology,1001,5000 ,25,100,million
+"Data Scientist, F&S",150017 ,4.2,"Square
+4.2",San Francisco,2009,Company - Public,Internet & Web Services,Information Technology,5001,10000 ,1,5,billion
+Data Scientist II,105851 ,4.0,"RELX
+4.0",San Jose,1880,Company - Public,Information Technology Support Services,Information Technology,100001,100001 ,100.01,100.01,billion
+ChemBio Data Scientist,114162 ,4.5,"Lawrence Livermore National Laboratory
+4.5",Livermore,1952,Government,National Agencies,Government & Public Administration,5001,10000 ,1,5,billion
+Data Scientist - DS 1,132392 ,3.9,"AppZen
+3.9",San Jose,2012,Company - Private,Financial Transaction Processing,Financial Services,51,200 ,1,5,million
+Research Data Scientist,108292 ,4.1,"University of California San Francisco
+4.1",San Francisco,1864,College / University,Colleges & Universities,Education,100001,100001 ,25,100,million
+Data Scientist,115875 ,3.7,"HCL
+3.7",San Francisco,1976,Company - Private,Information Technology Support Services,Information Technology,5001,10000 ,100.01,100.01,billion
+Senior Data Scientist,149625 ,4.7,"NVIDIA
+4.7",Santa Clara,1993,Company - Public,Computer Hardware Development,Information Technology,100001,100001 ,5,10,billion
+Data Scientist,119061 ,4.0,"Visa
+4.0",Foster City,1958,Company - Public,Information Technology Support Services,Information Technology,100001,100001 ,100.01,100.01,billion
+Data Scientist,137618 ,3.6,"Afterpay
+3.6",San Francisco,2014,Company - Public,Internet & Web Services,Information Technology,501,1000 ,5,10,billion
+Senior Data Scientist,154276 ,4.4,"Salesforce
+4.4",San Francisco,1999,Company - Public,Enterprise Software & Network Solutions,Information Technology,100001,100001 ,100.01,100.01,billion
+Data Scientist,126833 ,4.3,"Grid Dynamics
+4.3",San Francisco,2006,Company - Private,Enterprise Software & Network Solutions,Information Technology,1001,5000 ,25,100,million
+Data Scientist,112440 ,3.3,"Fiserv, Inc.
+3.3",San Jose,1984,Company - Public,Financial Transaction Processing,Financial Services,100001,100001 ,5,10,billion
+Data Scientist,133158 ,3.0,"Quantapore
+3.0",San Francisco,2009,Company - Private,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,1,50 ,1,5,million
+"Data Scientist, Creative Cloud Education",149820 ,4.4,"Adobe
+4.4",San Francisco,1982,Company - Public,Computer Hardware Development,Information Technology,100001,100001 ,5,10,billion
+Data Scientist,121000 ,3.2,"Everlane
+3.2",San Francisco,2010,Company - Private,Other Retail Stores,Retail & Wholesale,51,200 ,5,25,million
+Senior Data Scientist,148858 ,4.4,"Intuit - Data
+4.4",Mountain View,1983,Company - Public,Computer Hardware Development,Information Technology,100001,100001 ,5,10,billion
+Data Scientist,119357 ,4.2,"Autodesk
+4.2",San Francisco,1982,Company - Public,Computer Hardware Development,Information Technology,100001,100001 ,1,5,billion
+Data Scientist,103923 ,4.0,"Veeco
+4.0",San Jose,1945,Company - Public,Machinery Manufacturing,Manufacturing,1001,5000 ,100,500,million
+Staff Data Scientist,164608 ,4.4,"Intuit - Data
+4.4",Mountain View,1983,Company - Public,Computer Hardware Development,Information Technology,100001,100001 ,5,10,billion
+Staff Data Scientist - Marketing,153946 ,4.0,"Uber
+4.0",San Francisco,2009,Company - Public,Internet & Web Services,Information Technology,100001,100001 ,100.01,100.01,billion
+Data Scientist - Forecasting,128194 ,3.8,"Amazon.com Services LLC
+3.8",San Francisco,1994,Company - Public,Internet & Web Services,Information Technology,100001,100001 ,100.01,100.01,billion
+Data Scientist,119061 ,4.0,"Visa
+4.0",Foster City,1958,Company - Public,Information Technology Support Services,Information Technology,100001,100001 ,100.01,100.01,billion
+"Data Scientist, Creative Cloud Education",149820 ,4.4,"Adobe
+4.4",San Francisco,1982,Company - Public,Computer Hardware Development,Information Technology,100001,100001 ,5,10,billion
+Data Scientist - Forecasting,128194 ,3.8,"Amazon.com Services LLC
+3.8",San Francisco,1994,Company - Public,Internet & Web Services,Information Technology,100001,100001 ,100.01,100.01,billion
+Data Scientist,121000 ,3.2,"Everlane
+3.2",San Francisco,2010,Company - Private,Other Retail Stores,Retail & Wholesale,51,200 ,5,25,million
+Data Scientist,112440 ,3.3,"Fiserv, Inc.
+3.3",San Jose,1984,Company - Public,Financial Transaction Processing,Financial Services,100001,100001 ,5,10,billion
+Staff Data Scientist - Marketing,153946 ,4.0,"Uber
+4.0",San Francisco,2009,Company - Public,Internet & Web Services,Information Technology,100001,100001 ,100.01,100.01,billion
+Data Scientist,126833 ,4.3,"Grid Dynamics
+4.3",San Francisco,2006,Company - Private,Enterprise Software & Network Solutions,Information Technology,1001,5000 ,25,100,million
+Data Scientist - Machine Learning,123886 ,4.3,"Denken Solutions Inc
+4.3",San Francisco,2010,Company - Private,Information Technology Support Services,Information Technology,201,500 ,25,100,million
+Senior Data Scientist,154276 ,4.4,"Salesforce
+4.4",San Francisco,1999,Company - Public,Enterprise Software & Network Solutions,Information Technology,100001,100001 ,100.01,100.01,billion
+Data Scientist,133158 ,3.0,"Quantapore
+3.0",San Francisco,2009,Company - Private,Biotech & Pharmaceuticals,Pharmaceutical & Biotechnology,1,50 ,1,5,million
+Data Scientist,119357 ,4.2,"Autodesk
+4.2",San Francisco,1982,Company - Public,Computer Hardware Development,Information Technology,100001,100001 ,1,5,billion
+Data Scientist,140169 ,4.0,"Sia Partners
+4.0",San Francisco,1999,Company - Private,Business Consulting,Management & Consulting,1001,5000 ,100,500,million
+Data Scientist,133340 ,3.6,"Taskrabbit
+3.6",San Francisco,2008,Company - Private,Internet & Web Services,Information Technology,51,200 ,25,100,million
+Senior Data Scientist,148858 ,4.4,"Intuit - Data
+4.4",Mountain View,1983,Company - Public,Computer Hardware Development,Information Technology,100001,100001 ,5,10,billion
+Data Scientist,122077 ,3.3,"Walmart
+3.3",Sunnyvale,1962,Company - Public,General Merchandise & Superstores,Retail & Wholesale,100001,100001 ,100.01,100.01,billion
+Data Scientist,119061 ,4.0,"Visa
+4.0",Foster City,1958,Company - Public,Information Technology Support Services,Information Technology,100001,100001 ,100.01,100.01,billion
+Data Scientist,112440 ,3.3,"Fiserv, Inc.
+3.3",San Jose,1984,Company - Public,Financial Transaction Processing,Financial Services,100001,100001 ,5,10,billion
+Staff Data Scientist - Marketing,153946 ,4.0,"Uber
+4.0",San Francisco,2009,Company - Public,Internet & Web Services,Information Technology,100001,100001 ,100.01,100.01,billion
+Data Scientist - Forecasting,128194 ,3.8,"Amazon.com Services LLC
+3.8",San Francisco,1994,Company - Public,Internet & Web Services,Information Technology,100001,100001 ,100.01,100.01,billion
+Data Scientist,121000 ,3.2,"Everlane
+3.2",San Francisco,2010,Company - Private,Other Retail Stores,Retail & Wholesale,51,200 ,5,25,million
+Senior Data Scientist,154276 ,4.4,"Salesforce
+4.4",San Francisco,1999,Company - Public,Enterprise Software & Network Solutions,Information Technology,100001,100001 ,100.01,100.01,billion
+Business/Data Analyst - REMOTE,28.85 ,4.1,"Splunk
+4.1",San Francisco,2003,Company - Public,Enterprise Software & Network Solutions,Information Technology,5001,10000 ,1,5,billion
